@@ -1,1 +1,1 @@
-https://janshijaya-2004.github.io/Octanet/tree/main/landingpage
+https://janshijaya-2004.github.io/Octanet/landingpage
